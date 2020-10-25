@@ -59,11 +59,11 @@ export default {
         this.activeCard = answer.component;
         setTimeout(()=>{
           if (answer.id == this.selectedCard){
-            alert('Correct!')
+            this.$emit('isCorrectEvent', 'Celebrate')
           }else{
-            alert('Game is over!')
+            this.$emit('isCorrectEvent', 'Failure')
           }
-        },1000)
+        },2000)
       }
     }
   }
