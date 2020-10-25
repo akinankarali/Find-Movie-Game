@@ -1,6 +1,5 @@
 <template>
   <div class="game-area">
-    <p>{{answer}}</p>
     <h1 class='title'>Find <span>the correct</span> <strong>movie ?</strong> </h1>
     <h4 class="desc">Select one movie card and then click the question mark</h4>
     <div class="container">
