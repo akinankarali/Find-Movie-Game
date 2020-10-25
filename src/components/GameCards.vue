@@ -1,7 +1,7 @@
 <template>
   <div class="game-area">
     <h1 class='title'>Find <span>the correct</span> <strong>movie ?</strong> </h1>
-    <h4 class="desc">Select one movie card and then click the closed card</h4>
+    <h4 class="desc">Select one movie card and then click the question mark</h4>
     <div class="container">
       <transition-group name="rotate-all" appear class="card-container">
         <Card
