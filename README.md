@@ -1,5 +1,9 @@
 # Find-Movie-Game
-This is a guess game.
+This is a guess card game.
+
+<img src="src/assets/1st.JPG" width="500">
+<img src="src/assets/2nd.JPG" width="500">
+<img src="src/assets/3rd.JPG" width="500">
 
 ## Installation
 
